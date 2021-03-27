@@ -1,2 +1,2 @@
-# simple-digital-clock-react
+# Simple-digital-react-time
 Created with CodeSandbox
